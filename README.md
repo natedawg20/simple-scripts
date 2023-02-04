@@ -1,5 +1,5 @@
-# scripts
-general repository powershell scripts
+# Scripts
+Repository for basic PowerShell and Command Prompt [CMD] commands
 
-# usage
-used for keeping of general powershell scripts for work or fun : )
+# Usage
+To perform simple tasks, and help automate the simple things
